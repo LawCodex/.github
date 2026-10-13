@@ -232,8 +232,9 @@ Some corpora are incomplete only because the publisher requires permission, an A
 - **Bahrain** — permission from the Legislation & Legal Opinion Commission (LLOC); **Kuwait** — written consent from the National Assembly Secretariat.
 - **Andorra** — permission to reuse the consolidated texts of portaljuridicandorra.ad; **Vatican City** — permission from the Governatorato to publish the texts.
 - **Lebanon** — permission from the Lebanese University Legal Informatics Center; **Palestine** — permission from Al-Muqtafi (Birzeit University).
+- **Saint Kitts and Nevis** — written permission from the Law Commission to reproduce the Revised Laws (lawcommission.gov.kn).
 - **Mali, Benin, Congo** — written permission from the official journal / government secretariat sites to reproduce legislation.
-- **Moldova, Lithuania, Romania, Serbia, Mexico, Israel, Belarus, Saudi Arabia, UAE, Kazakhstan, Kyrgyzstan** — official sites unreachable or bot-protected from our network; a crawl from another network or an allow-listed crawler would allow complete, current corpora.
+- **Moldova, Lithuania, Romania, Serbia, Mexico, Israel, Belarus, Saudi Arabia, UAE, Kazakhstan, Kyrgyzstan, Malawi** — official sites unreachable or bot-protected from our network; a crawl from another network or an allow-listed crawler would allow complete, current corpora.
 
 ## Conventions
 
