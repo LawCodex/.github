@@ -111,7 +111,7 @@ ACCESS = [
     "**Vatican City** — permission from the Governatorato to publish the texts.",
     "**Lebanon** — permission from the Lebanese University Legal Informatics Center; "
     "**Palestine** — permission from Al-Muqtafi (Birzeit University).",
-    "**Mali, Benin** — written permission from the official journal / government "
+    "**Mali, Benin, Congo** — written permission from the official journal / government "
     "secretariat sites to reproduce legislation.",
     "**Moldova, Lithuania, Romania, Serbia, Mexico, Israel, Belarus, Saudi Arabia, UAE, Kazakhstan, Kyrgyzstan** — official sites "
     "unreachable or bot-protected from our network; a crawl from another network or an "
