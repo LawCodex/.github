@@ -72,12 +72,12 @@ md	minimal	Constitution only (official sites behind bot protection)	presedinte.m
 af	minimal	2004 Constitution + 2 laws (English), archived	Former official sites (archived)
 gr	partial	Constitution, 40 codes, ~7,500 laws, decrees and acts (2000+) as published in the Gazette; pre-2000 scans missing	National Printing Office (ΦΕΚ)
 id	progress	UUD 1945, UU, Perppu, PP	JDIH BPK
-kz	progress			
-uz	progress			
-kg	progress			
-tj	progress			
-tm	progress			
-mn	progress			
+kz	partial	5,596 consolidated acts (Russian + Kazakh) from archived copies; official site restricts automated access	Adilet (Common Crawl, Internet Archive)
+uz	full	2,577 acts in force (Uzbek + Russian), consolidated, incl. Karakalpakstan	lex.uz
+kg	partial	639 acts from 2021–2023 archived copies; official site geo-blocked	cbd.minjust.gov.kg (Common Crawl)
+tj	partial	282 acts (Tajik) from archived copies	mmk.tj (Internet Archive)
+tm	partial	22 codes and 371 laws (Turkmen + Russian); Constitution only in Russian, 2020 edition	mejlis.gov.tm, turkmenistan.gov.tm
+mn	full	Constitution, 950 laws, 212 presidential decrees in force, consolidated	legalinfo.mn
 th	progress			
 my	progress			
 kh	progress			
