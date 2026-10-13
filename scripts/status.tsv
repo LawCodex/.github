@@ -105,11 +105,11 @@ eg	partial	Constitution + 612 laws and decree-laws (as published) from archived 
 ly	partial	Constitutional Declaration (unofficial consolidation) + 160 laws and codes	Ministry of Justice, DCAF
 mr	partial	Constitution (Arabic) + 11 codes + 233 laws 2017–2026 from archived copies	Constitutional Council, SGG (Internet Archive)
 sd	partial	331 acts 1903–2015 (revised statute book); 2019 Constitutional Document missing	Ministry of Justice
-li	progress			
-mc	progress			
-ad	progress			
-sm	progress			
-va	progress			
+li	full	3,681 texts in force (1,239 domestic + 2,442 treaties), consolidated	LILEX (gesetze.li)
+mc	full	7,638 texts in force (Constitution, codes, lois, ordonnances, arrêtés, treaties), consolidated	Légimonaco
+ad	partial	Constitution + 1,188 laws and legislative decrees as published (consolidated database terms forbid reuse)	BOPA
+sm	partial	65 consolidated texts + 5,215 acts as published	Consiglio Grande e Generale
+va	minimal	Catalogue of 300 acts only (Vatican law applies copyright to legislation)	vaticanstate.va
 jm	partial	Constitution + 600 revised chapters (much from publisher OCR); 68 scans missing	laws.moj.gov.jm
 tt	full	Constitution + 532 revised chapters (to 2016, unofficial version)	laws.gov.tt
 bb	partial	Constitution (2002 reprint, pre-republic) + 538 chapters, reprints 1970s–2008	barbadoslawcourts.gov.bb

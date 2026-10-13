@@ -8,7 +8,7 @@ Texts are reproduced faithfully but are **not** an official publication. Always 
 
 ## Coverage
 
-✅ Full: **44** · 🟡 Partial: **43** · 🟠 Minimal: **9** · 🔄 In progress: **21** · ⬜ Not started: **81**
+✅ Full: **46** · 🟡 Partial: **45** · 🟠 Minimal: **10** · 🔄 In progress: **16** · ⬜ Not started: **81**
 
 - **✅ Full** — the in-force primary legislation the official source exposes, usually consolidated.
 - **🟡 Partial** — substantial corpus with known gaps (unofficial or archived source, texts as enacted rather than consolidated, missing categories).
@@ -23,7 +23,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Afghanistan | [`af`](https://github.com/LawCodex/af) | 🟠 Minimal | 2004 Constitution + 2 laws (English), archived | Former official sites (archived) | 2026-10-12 |
 | Albania | [`al`](https://github.com/LawCodex/al) | ✅ Full | 2,668 laws in force (314 consolidated) | qbz.gov.al | 2026-10-12 |
 | Algeria | [`dz`](https://github.com/LawCodex/dz) | 🟡 Partial | 465 laws and ordinances since 2002 (French), as published; pre-2002 scans missing | Journal officiel | 2026-10-13 |
-| Andorra | [`ad`](https://github.com/LawCodex/ad) | 🔄 In progress |  |  | 2026-10-13 |
+| Andorra | [`ad`](https://github.com/LawCodex/ad) | 🟡 Partial | Constitution + 1,188 laws and legislative decrees as published (consolidated database terms forbid reuse) | BOPA | 2026-10-13 |
 | Angola | `ao` | ⬜ Not started |  |  |  |
 | Antigua and Barbuda | [`ag`](https://github.com/LawCodex/ag) | ⬜ Not started |  |  | 2026-10-13 |
 | Argentina | [`ar`](https://github.com/LawCodex/ar) | 🟡 Partial | 11,052 national texts; many only as originally enacted | InfoLEG, SAIJ | 2026-10-11 |
@@ -47,7 +47,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Brunei | [`bn`](https://github.com/LawCodex/bn) | 🔄 In progress |  |  | 2026-10-13 |
 | Bulgaria | [`bg`](https://github.com/LawCodex/bg) | 🟡 Partial | 2,559 consolidated texts (unofficial); no ordinances | legislation.apis.bg | 2026-10-11 |
 | Burkina Faso | [`bf`](https://github.com/LawCodex/bf) | ⬜ Not started |  |  | 2026-10-13 |
-| Burundi | `bi` | ⬜ Not started |  |  |  |
+| Burundi | [`bi`](https://github.com/LawCodex/bi) | ⬜ Not started |  |  | 2026-10-13 |
 | Cabo Verde | `cv` | ⬜ Not started |  |  |  |
 | Cambodia | [`kh`](https://github.com/LawCodex/kh) | 🔄 In progress |  |  | 2026-10-13 |
 | Cameroon | `cm` | ⬜ Not started |  |  |  |
@@ -67,14 +67,14 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Czechia | [`cz`](https://github.com/LawCodex/cz) | ✅ Full | 8,935 acts in force, consolidated | e-Sbírka | 2026-10-11 |
 | Côte d'Ivoire | [`ci`](https://github.com/LawCodex/ci) | ⬜ Not started |  |  | 2026-10-13 |
 | Denmark | [`dk`](https://github.com/LawCodex/dk) | ✅ Full | 11,134 documents in force | Retsinformation | 2026-10-11 |
-| Djibouti | `dj` | ⬜ Not started |  |  |  |
+| Djibouti | [`dj`](https://github.com/LawCodex/dj) | ⬜ Not started |  |  | 2026-10-13 |
 | Dominica | [`dm`](https://github.com/LawCodex/dm) | ⬜ Not started |  |  | 2026-10-13 |
 | Dominican Republic | `do` | ⬜ Not started |  |  |  |
 | Ecuador | `ec` | ⬜ Not started |  |  |  |
 | Egypt | [`eg`](https://github.com/LawCodex/eg) | 🟡 Partial | Constitution + 612 laws and decree-laws (as published) from archived copies | SIS, Court of Cassation (Internet Archive) | 2026-10-13 |
 | El Salvador | `sv` | ⬜ Not started |  |  |  |
 | Equatorial Guinea | `gq` | ⬜ Not started |  |  |  |
-| Eritrea | `er` | ⬜ Not started |  |  |  |
+| Eritrea | [`er`](https://github.com/LawCodex/er) | ⬜ Not started |  |  | 2026-10-13 |
 | Estonia | [`ee`](https://github.com/LawCodex/ee) | ✅ Full | 4,753 acts in force (Estonian) + 404 English translations, consolidated | Riigi Teataja | 2026-10-11 |
 | Eswatini | `sz` | ⬜ Not started |  |  |  |
 | Ethiopia | `et` | ⬜ Not started |  |  |  |
@@ -120,7 +120,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Lesotho | `ls` | ⬜ Not started |  |  |  |
 | Liberia | `lr` | ⬜ Not started |  |  |  |
 | Libya | [`ly`](https://github.com/LawCodex/ly) | 🟡 Partial | Constitutional Declaration (unofficial consolidation) + 160 laws and codes | Ministry of Justice, DCAF | 2026-10-13 |
-| Liechtenstein | [`li`](https://github.com/LawCodex/li) | 🔄 In progress |  |  | 2026-10-13 |
+| Liechtenstein | [`li`](https://github.com/LawCodex/li) | ✅ Full | 3,681 texts in force (1,239 domestic + 2,442 treaties), consolidated | LILEX (gesetze.li) | 2026-10-13 |
 | Lithuania | [`lt`](https://github.com/LawCodex/lt) | 🟡 Partial | 12,229 files, mostly from unofficial mirrors (~March 2026); official sources blocked | e-seimas, open-data mirrors | 2026-10-11 |
 | Luxembourg | [`lu`](https://github.com/LawCodex/lu) | ✅ Full | 16,781 texts in force (6% consolidated, rest as published) | Legilux | 2026-10-11 |
 | Madagascar | `mg` | ⬜ Not started |  |  |  |
@@ -135,13 +135,13 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Mexico | [`mx`](https://github.com/LawCodex/mx) | 🟡 Partial | 454 federal texts; site unreachable, Internet Archive copies, some outdated | Cámara de Diputados (archived) | 2026-10-11 |
 | Micronesia | `fm` | ⬜ Not started |  |  |  |
 | Moldova | [`md`](https://github.com/LawCodex/md) | 🟠 Minimal | Constitution only (official sites behind bot protection) | presedinte.md | 2026-10-11 |
-| Monaco | [`mc`](https://github.com/LawCodex/mc) | 🔄 In progress |  |  | 2026-10-13 |
+| Monaco | [`mc`](https://github.com/LawCodex/mc) | ✅ Full | 7,638 texts in force (Constitution, codes, lois, ordonnances, arrêtés, treaties), consolidated | Légimonaco | 2026-10-13 |
 | Mongolia | [`mn`](https://github.com/LawCodex/mn) | ✅ Full | Constitution, 950 laws, 212 presidential decrees in force, consolidated | legalinfo.mn | 2026-10-12 |
 | Montenegro | [`me`](https://github.com/LawCodex/me) | 🟡 Partial | Constitution + 297 laws (unofficial texts) + register index | sluzbenilist.me, gov.me | 2026-10-12 |
 | Morocco | [`ma`](https://github.com/LawCodex/ma) | 🟡 Partial | 438 texts (Arabic/French), mostly consolidated, from archived copies of official sites | Adala, SGG (Internet Archive) | 2026-10-13 |
 | Mozambique | `mz` | ⬜ Not started |  |  |  |
 | Myanmar | [`mm`](https://github.com/LawCodex/mm) | 🔄 In progress |  |  | 2026-10-13 |
-| Namibia | `na` | ⬜ Not started |  |  |  |
+| Namibia | [`na`](https://github.com/LawCodex/na) | ⬜ Not started |  |  | 2026-10-13 |
 | Nauru | `nr` | ⬜ Not started |  |  |  |
 | Nepal | [`np`](https://github.com/LawCodex/np) | 🟡 Partial | Constitution + 361 Acts, English translations from archived copies | Nepal Law Commission (archived) | 2026-10-12 |
 | Netherlands | [`nl`](https://github.com/LawCodex/nl) | ✅ Full | 12,955 regelingen in force | wetten.overheid.nl (BWB) | 2026-10-11 |
@@ -170,7 +170,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Saint Lucia | [`lc`](https://github.com/LawCodex/lc) | ⬜ Not started |  |  | 2026-10-13 |
 | Saint Vincent and the Grenadines | [`vc`](https://github.com/LawCodex/vc) | ⬜ Not started |  |  | 2026-10-13 |
 | Samoa | `ws` | ⬜ Not started |  |  |  |
-| San Marino | [`sm`](https://github.com/LawCodex/sm) | 🔄 In progress |  |  | 2026-10-13 |
+| San Marino | [`sm`](https://github.com/LawCodex/sm) | 🟡 Partial | 65 consolidated texts + 5,215 acts as published | Consiglio Grande e Generale | 2026-10-13 |
 | Sao Tome and Principe | `st` | ⬜ Not started |  |  |  |
 | Saudi Arabia | [`sa`](https://github.com/LawCodex/sa) | 🟡 Partial | 592 laws (Arabic) + 268 English translations from archived copies; not consolidated | laws.boe.gov.sa (Internet Archive) | 2026-10-13 |
 | Senegal | [`sn`](https://github.com/LawCodex/sn) | ⬜ Not started |  |  | 2026-10-13 |
@@ -183,7 +183,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Solomon Islands | `sb` | ⬜ Not started |  |  |  |
 | Somalia | `so` | ⬜ Not started |  |  |  |
 | South Africa | [`za`](https://github.com/LawCodex/za) | 🟡 Partial | Constitution + 2,804 Acts as enacted, 64% OCR; consolidated sources prohibit bulk download | gov.za | 2026-10-11 |
-| South Sudan | `ss` | ⬜ Not started |  |  |  |
+| South Sudan | [`ss`](https://github.com/LawCodex/ss) | ⬜ Not started |  |  | 2026-10-13 |
 | Spain | [`es`](https://github.com/LawCodex/es) | ✅ Full | 10,003 consolidated state and regional norms in force | BOE | 2026-10-11 |
 | Sri Lanka | [`lk`](https://github.com/LawCodex/lk) | 🟡 Partial | Constitution + 816 Acts as passed (1999+) | parliament.lk | 2026-10-12 |
 | Sudan | [`sd`](https://github.com/LawCodex/sd) | 🟡 Partial | 331 acts 1903–2015 (revised statute book); 2019 Constitutional Document missing | Ministry of Justice | 2026-10-13 |
@@ -193,7 +193,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Syria | [`sy`](https://github.com/LawCodex/sy) | 🔄 In progress |  |  | 2026-10-13 |
 | Taiwan | [`tw`](https://github.com/LawCodex/tw) | ✅ Full | 8,279 texts in force (Chinese) + 2,888 English translations | 全國法規資料庫 open data | 2026-10-11 |
 | Tajikistan | [`tj`](https://github.com/LawCodex/tj) | 🟡 Partial | 282 acts (Tajik) from archived copies | mmk.tj (Internet Archive) | 2026-10-12 |
-| Tanzania | `tz` | ⬜ Not started |  |  |  |
+| Tanzania | [`tz`](https://github.com/LawCodex/tz) | ⬜ Not started |  |  | 2026-10-13 |
 | Thailand | [`th`](https://github.com/LawCodex/th) | 🔄 In progress |  |  | 2026-10-13 |
 | Timor-Leste | [`tl`](https://github.com/LawCodex/tl) | 🔄 In progress |  |  | 2026-10-13 |
 | Togo | [`tg`](https://github.com/LawCodex/tg) | ⬜ Not started |  |  | 2026-10-13 |
@@ -211,7 +211,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Uruguay | `uy` | ⬜ Not started |  |  |  |
 | Uzbekistan | [`uz`](https://github.com/LawCodex/uz) | ✅ Full | 2,577 acts in force (Uzbek + Russian), consolidated, incl. Karakalpakstan | lex.uz | 2026-10-12 |
 | Vanuatu | `vu` | ⬜ Not started |  |  |  |
-| Vatican City | [`va`](https://github.com/LawCodex/va) | 🔄 In progress |  |  | 2026-10-13 |
+| Vatican City | [`va`](https://github.com/LawCodex/va) | 🟠 Minimal | Catalogue of 300 acts only (Vatican law applies copyright to legislation) | vaticanstate.va | 2026-10-13 |
 | Venezuela | `ve` | ⬜ Not started |  |  |  |
 | Viet Nam | [`vn`](https://github.com/LawCodex/vn) | 🟡 Partial | 2,487 documents in force; 1,043 more without obtainable text | vbpl.vn, Công báo | 2026-10-12 |
 | Yemen | [`ye`](https://github.com/LawCodex/ye) | 🔄 In progress |  |  | 2026-10-13 |
@@ -230,6 +230,7 @@ Some corpora are incomplete only because the publisher requires permission, an A
 - **Singapore** — allow-listing or a bulk export from the Attorney-General's Chambers (Singapore Statutes Online).
 - **Africa (AfricanLII / Laws.Africa network)** — bulk access to consolidated legislation for South Africa, Kenya, Zambia, Zimbabwe, Namibia, Malawi, Uganda, Tanzania, Sierra Leone, Lesotho, Ghana and Seychelles (support@lawlibrary.org.za).
 - **Bahrain** — permission from the Legislation & Legal Opinion Commission (LLOC); **Kuwait** — written consent from the National Assembly Secretariat.
+- **Andorra** — permission to reuse the consolidated texts of portaljuridicandorra.ad; **Vatican City** — permission from the Governatorato to publish the texts.
 - **Moldova, Lithuania, Romania, Serbia, Mexico, Israel, Belarus, Saudi Arabia, UAE, Kazakhstan, Kyrgyzstan** — official sites unreachable or bot-protected from our network; a crawl from another network or an allow-listed crawler would allow complete, current corpora.
 
 ## Conventions
