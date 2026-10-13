@@ -91,13 +91,13 @@ qa	full	9,668 instruments (Arabic, consolidated) + 94 English	Al Meezan
 kw	minimal	Constitution + 1 law (unofficial); republication needs National Assembly consent	Arabic Wikisource
 bh	minimal	Constitution (2002, unamended) + 1 law (unofficial); official database terms forbid republication	Arabic Wikisource
 om	partial	9,791 texts (royal decrees, laws, ministerial decisions), unofficial transcription	qanoon.om
-jo	progress			
-lb	progress			
-iq	progress			
-ir	progress			
-sy	progress			
-ps	progress			
-ye	progress			
+jo	full	6,635 texts (constitutions, laws, bylaws, instructions, agreements), consolidated, with status	Legislation and Opinion Bureau
+lb	minimal	Constitution (ar/en/fr), rules of procedure, Taif Agreement; main database forbids republication	Parliament of Lebanon
+iq	partial	2,960 texts (constitution, laws, CPA orders) from archived copies (2021–2022)	Iraqi Legal Database (Internet Archive)
+ir	partial	16,137 texts (Constitution, acts, Council of Ministers resolutions) as approved, from archived copies	rc.majlis.ir (Internet Archive)
+sy	partial	2012 Constitution + 1,283 laws and decrees from archived copies; 2025 Constitutional Declaration missing	parliament.gov.sy (Internet Archive)
+ps	minimal	Amended Basic Law 2003 only; Al-Muqtafi licence forbids reuse	Legislative Council (Internet Archive)
+ye	partial	Constitution + 823 laws and decrees 1990–2013	National Information Center
 ma	partial	438 texts (Arabic/French), mostly consolidated, from archived copies of official sites	Adala, SGG (Internet Archive)
 dz	partial	465 laws and ordinances since 2002 (French), as published; pre-2002 scans missing	Journal officiel
 tn	partial	1,157 laws 2000–2020 (Arabic/French) + 31 codes; no 2022 constitution	legislation.tn (Internet Archive)
