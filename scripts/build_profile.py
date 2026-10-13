@@ -113,9 +113,11 @@ ACCESS = [
     "**Palestine** — permission from Al-Muqtafi (Birzeit University).",
     "**Saint Kitts and Nevis** — written permission from the Law Commission to reproduce "
     "the Revised Laws (lawcommission.gov.kn).",
+    "**Bolivia** — a licence to republish law texts (Ley de Imprenta, art. 69) from the "
+    "Gaceta Oficial.",
     "**Mali, Benin, Congo** — written permission from the official journal / government "
     "secretariat sites to reproduce legislation.",
-    "**Moldova, Lithuania, Romania, Serbia, Mexico, Israel, Belarus, Saudi Arabia, UAE, Kazakhstan, Kyrgyzstan, Malawi** — official sites "
+    "**Moldova, Lithuania, Romania, Serbia, Mexico, Israel, Belarus, Saudi Arabia, UAE, Kazakhstan, Kyrgyzstan, Malawi, Peru, Venezuela, Panama, Guatemala, Dominican Republic** — official sites "
     "unreachable or bot-protected from our network; a crawl from another network or an "
     "allow-listed crawler would allow complete, current corpora.",
 ]

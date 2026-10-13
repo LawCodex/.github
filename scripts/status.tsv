@@ -170,3 +170,17 @@ lc	full	400 texts: Revised Laws 2023 (Constitution, 4 codes, 395 Acts)	Attorney 
 vc	minimal	7 texts: Constitution (OAS transcription) and 6 Acts	gov.vc / assembly.gov.vc
 sr	partial	218 texts: Grondwet, 97 consolidated texts (to 2005), 120 later laws	DNA (De Nationale Assemblée)
 ht	minimal	34 texts: 1987 Constitution, historical constitutions, laws, decrees, arrêtés	budget.gouv.ht + archive
+pe	minimal	13 texts (Constitution, Civil Code, procedure codes, 7 laws) + index of 34,000 norms	MINJUS (gob.pe) + Congreso index
+uy	partial	Constitution, 13 codes, 2,059 laws (Nos. 18.469–20.530, 2009 onwards), consolidated	IMPO open data
+ec	partial	Constitution + 233 laws (2009 onwards, as published)	Asamblea Nacional / Registro Oficial
+bo	minimal	Constitution + index of 5,164 laws (texts need authorisation)	Gaceta Oficial
+py	full	Constitution + 7,147 laws as enacted	BACN (Biblioteca del Congreso)
+ve	minimal	Constitution + 60 laws	Asamblea Nacional (via Internet Archive)
+cr	full	21,263 laws (in force and repealed), consolidated	SINALEVI / SCIJ
+pa	partial	Constitution + 2,961 norms	Legispan (Asamblea Nacional)
+gt	partial	Constitution + 469 decrees	Congreso (via Internet Archive)
+hn	partial	1,065 texts (selection)	Tribunal Superior de Cuentas library
+sv	full	5,678 texts, consolidated where amended	Asamblea Legislativa
+ni	full	8,996 legislative norms	Asamblea Nacional (Normas Jurídicas)
+do	partial	Constitution + 803 laws + 2,043 resolutions (1991–2023)	Biblioteca del Congreso (Gaceta Oficial)
+cu	partial	2019 Constitution + 88 laws + 281 decree-laws	Gaceta Oficial
