@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate profile/README.md from countries.tsv and status.tsv."""
 import csv
+import datetime
 import json
 import os
 import subprocess
@@ -24,9 +25,9 @@ def read_tsv(name):
 
 def existing_repos():
     out = subprocess.run(
-        ["gh", "repo", "list", "LawCodex", "--limit", "1000", "--json", "name"],
+        ["gh", "repo", "list", "LawCodex", "--limit", "1000", "--json", "name,pushedAt"],
         check=True, capture_output=True, text=True).stdout
-    return {r["name"] for r in json.loads(out)}
+    return {r["name"]: r["pushedAt"][:10] for r in json.loads(out)}
 
 
 def main():
@@ -67,11 +68,14 @@ def main():
     w("- **🟠 Minimal** — constitution and/or core codes only, usually because the source's "
       "terms forbid bulk download or the site blocks access.")
     w("- **🔄 In progress** / **⬜ Not started**.\n")
-    w("| Jurisdiction | Repo | Status | Contents | Main source |")
-    w("|---|---|---|---|---|")
+    w(f"_Table generated {datetime.date.today().isoformat()}. \"Updated\" is the date of the "
+      "repository's last push._\n")
+    w("| Jurisdiction | Repo | Status | Contents | Main source | Updated |")
+    w("|---|---|---|---|---|---|")
     for name, code, st, summary, source in rows:
         repo = f"[`{code}`](https://github.com/LawCodex/{code})" if code in repos else f"`{code}`"
-        w(f"| {name} | {repo} | {LABELS[st]} | {summary} | {source} |")
+        updated = repos.get(code, "")
+        w(f"| {name} | {repo} | {LABELS[st]} | {summary} | {source} | {updated} |")
     w("")
     w("## Help wanted: access to sources\n")
     w("Some corpora are incomplete only because the publisher requires permission, an API "
