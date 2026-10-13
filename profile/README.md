@@ -8,7 +8,7 @@ Texts are reproduced faithfully but are **not** an official publication. Always 
 
 ## Coverage
 
-✅ Full: **37** · 🟡 Partial: **25** · 🟠 Minimal: **7** · 🔄 In progress: **42** · ⬜ Not started: **87**
+✅ Full: **37** · 🟡 Partial: **26** · 🟠 Minimal: **7** · 🔄 In progress: **41** · ⬜ Not started: **87**
 
 - **✅ Full** — the in-force primary legislation the official source exposes, usually consolidated.
 - **🟡 Partial** — substantial corpus with known gaps (unofficial or archived source, texts as enacted rather than consolidated, missing categories).
@@ -86,7 +86,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Georgia | [`ge`](https://github.com/LawCodex/ge) | ✅ Full | 507 acts in force (Georgian) + 299 English translations; no secondary legislation | Matsne | 2026-10-12 |
 | Germany | [`de`](https://github.com/LawCodex/de) | ✅ Full | 6,139 federal laws and ordinances in force, consolidated | gesetze-im-internet.de | 2026-10-11 |
 | Ghana | `gh` | ⬜ Not started |  |  |  |
-| Greece | [`gr`](https://github.com/LawCodex/gr) | 🔄 In progress | Constitution, codes and laws |  | 2026-10-13 |
+| Greece | [`gr`](https://github.com/LawCodex/gr) | 🟡 Partial | Constitution, 40 codes, ~7,500 laws, decrees and acts (2000+) as published in the Gazette; pre-2000 scans missing | National Printing Office (ΦΕΚ) | 2026-10-13 |
 | Grenada | `gd` | ⬜ Not started |  |  |  |
 | Guatemala | `gt` | ⬜ Not started |  |  |  |
 | Guinea | `gn` | ⬜ Not started |  |  |  |
