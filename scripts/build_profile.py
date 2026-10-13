@@ -105,7 +105,9 @@ ACCESS = [
     "**Africa (AfricanLII / Laws.Africa network)** — bulk access to consolidated "
     "legislation for South Africa, Kenya, Zambia, Zimbabwe, Namibia, Malawi, Uganda, "
     "Tanzania, Sierra Leone, Lesotho, Ghana and Seychelles (support@lawlibrary.org.za).",
-    "**Moldova, Lithuania, Romania, Serbia, Mexico, Israel, Belarus** — official sites "
+    "**Bahrain** — permission from the Legislation & Legal Opinion Commission (LLOC); "
+    "**Kuwait** — written consent from the National Assembly Secretariat.",
+    "**Moldova, Lithuania, Romania, Serbia, Mexico, Israel, Belarus, Saudi Arabia, UAE, Kazakhstan, Kyrgyzstan** — official sites "
     "unreachable or bot-protected from our network; a crawl from another network or an "
     "allow-listed crawler would allow complete, current corpora.",
 ]
