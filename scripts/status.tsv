@@ -98,13 +98,13 @@ ir	progress
 sy	progress			
 ps	progress			
 ye	progress			
-ma	progress			
-dz	progress			
-tn	progress			
-eg	progress			
-ly	progress			
-mr	progress			
-sd	progress			
+ma	partial	438 texts (Arabic/French), mostly consolidated, from archived copies of official sites	Adala, SGG (Internet Archive)
+dz	partial	465 laws and ordinances since 2002 (French), as published; pre-2002 scans missing	Journal officiel
+tn	partial	1,157 laws 2000–2020 (Arabic/French) + 31 codes; no 2022 constitution	legislation.tn (Internet Archive)
+eg	partial	Constitution + 612 laws and decree-laws (as published) from archived copies	SIS, Court of Cassation (Internet Archive)
+ly	partial	Constitutional Declaration (unofficial consolidation) + 160 laws and codes	Ministry of Justice, DCAF
+mr	partial	Constitution (Arabic) + 11 codes + 233 laws 2017–2026 from archived copies	Constitutional Council, SGG (Internet Archive)
+sd	partial	331 acts 1903–2015 (revised statute book); 2019 Constitutional Document missing	Ministry of Justice
 li	progress			
 mc	progress			
 ad	progress			
