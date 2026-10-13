@@ -1,0 +1,112 @@
+eu	full	34,323 acts in force (treaties, regulations, directives, decisions), English, consolidated where available	EUR-Lex / Cellar
+at	full	19,099 texts: all federal and all nine Länder law in force, consolidated	RIS (OGD API)
+au	full	29,287 texts: Constitution, Acts, legislative instruments (Commonwealth), consolidated	Federal Register of Legislation
+be	progress	Consolidated federal and regional legislation, French and Dutch	Justel
+ca	full	11,732 files: Constitution, Acts and regulations in English and French, consolidated	Justice Laws (XML)
+ch	full	5,072 texts in force in DE/FR/IT (+RM), internal and international law, consolidated	Fedlex
+cz	full	8,935 acts in force, consolidated	e-Sbírka
+de	full	6,139 federal laws and ordinances in force, consolidated	gesetze-im-internet.de
+dk	full	11,134 documents in force	Retsinformation
+ee	full	4,753 acts in force (Estonian) + 404 English translations, consolidated	Riigi Teataja
+es	full	10,003 consolidated state and regional norms in force	BOE
+fi	full	10,541 consolidated statutes in Finnish and Swedish (only part of the statute book is consolidated)	Finlex open data
+fr	full	48,889 texts in force: Constitution, 76 codes, lois, ordonnances, décrets (no arrêtés)	DILA LEGI
+gb	full	6,720 Acts (UK, Scotland, Wales, NI, pre-Union), revised; no statutory instruments; pre-1980s scans missing	legislation.gov.uk
+ie	full	5,450 files: Constitution, Acts (577 revised, rest as enacted), pre-1922 statutes	Law Reform Commission, Irish Statute Book
+it	full	76,894 acts in force (vigente), incl. all DPRs and royal decrees	Normattiva open data
+jp	full	9,017 laws in force (法律, 政令, 府省令, 規則)	e-Gov 法令検索
+kr	full	5,628 current laws, decrees and ordinances	law.go.kr Open API
+lu	full	16,781 texts in force (6% consolidated, rest as published)	Legilux
+lv	full	6,410 consolidated laws and Cabinet regulations + 1,680 English translations	Likumi.lv
+nl	full	12,955 regelingen in force	wetten.overheid.nl (BWB)
+no	full	5,881 laws and central regulations in force	Lovdata public data
+pl	full	21,273 acts in force (2,640 consolidated, 3,611 unverified OCR)	Sejm ELI API
+pt	full	4,840 consolidated diplomas in force	Diário da República Eletrónico
+se	full	5,338 consolidated SFS texts in force	Riksdagen open data
+si	full	7,145 acts in force (1,861 consolidated)	PIS
+sk	full	9,699 acts in force, consolidated	Slov-Lex
+tr	full	14,607 consolidated texts incl. regulations and tebliğler	Mevzuat Bilgi Sistemi
+tw	full	8,279 texts in force (Chinese) + 2,888 English translations	全國法規資料庫 open data
+us	full	US Code (all titles), Constitution, eCFR	OLRC (via Internet Archive), GovInfo
+hu	full	8,215 laws in force, consolidated	Nemzeti Jogszabálytár
+ru	full	11,770 federal acts in force incl. all 25 codes, consolidated	pravo.gov.ru
+ge	full	507 acts in force (Georgian) + 299 English translations; no secondary legislation	Matsne
+am	full	1,001 laws (Armenian) + 216 English translations, consolidated	ARLIS
+az	full	2,640 laws in force (Constitution, codes, laws)	e-qanun
+al	full	2,668 laws in force (314 consolidated)	qbz.gov.al
+xk	full	~615 laws in Albanian, Serbian and English	Official Gazette
+ph	full	25,250 texts as enacted (RAs, PDs, EOs, Acts, codes)	LawPhil (CC BY-NC)
+tw	full	8,279 texts in force + English	全國法規資料庫
+ar	partial	11,052 national texts; many only as originally enacted	InfoLEG, SAIJ
+br	partial	19,150 federal acts (compiled texts); some older laws not published by Planalto	Planalto
+bg	partial	2,559 consolidated texts (unofficial); no ordinances	legislation.apis.bg
+cn	partial	Constitution, 286/302 laws, 606 administrative regulations, 199 judicial interpretations	NPC, MOFCOM, State Council
+hr	partial	Constitution, 977 laws, 1,108 decrees; mostly original text + amendments; in-force status inferred	Narodne novine
+is	partial	Constitution and all 916 laws; 2,916 of 6,949 regulations	Althingi, island.is
+il	partial	6,169 texts, unofficial consolidations; official Knesset sources geo-blocked	Hebrew Wikisource (Open Law Book)
+lt	partial	12,229 files, mostly from unofficial mirrors (~March 2026); official sources blocked	e-seimas, open-data mirrors
+mt	partial	5,076 laws in English and Maltese, converted from PDF	legislation.mt
+mx	partial	454 federal texts; site unreachable, Internet Archive copies, some outdated	Cámara de Diputados (archived)
+nz	partial	3,201 Acts from Internet Archive copies; official API needs a key	legislation.govt.nz (archived)
+ro	partial	18,057 acts as published (not consolidated), in-force status unknown	legislatie.just.ro web service
+vn	partial	2,487 documents in force; 1,043 more without obtainable text	vbpl.vn, Công báo
+za	partial	Constitution + 2,804 Acts as enacted, 64% OCR; consolidated sources prohibit bulk download	gov.za
+ua	progress	Constitution, 23 codes, laws (fetch ongoing under API rate limits)	data.rada.gov.ua
+pk	partial	Constitution + 981 federal laws; Urdu and scans missing	Pakistan Code
+bd	partial	Constitution + 1,346 laws (English/Bangla)	bdlaws.minlaw.gov.bd
+lk	partial	Constitution + 816 Acts as passed (1999+)	parliament.lk
+np	partial	Constitution + 361 Acts, English translations from archived copies	Nepal Law Commission (archived)
+bt	partial	Constitution + 165 Acts in English (archived copies)	National Assembly / OAG (archived)
+mv	partial	Constitution + 241 laws and regulations in Dhivehi	MVLaw (AGO)
+rs	partial	1,039 consolidated acts from Internet Archive copies (~425 laws)	pravno-informacioni-sistem.rs (archived)
+me	partial	Constitution + 297 laws (unofficial texts) + register index	sluzbenilist.me, gov.me
+mk	partial	4,776 files: base laws and amending laws separately	LDBIS
+ba	partial	State-level Constitution + ~230 laws in bs/hr/sr	parlament.ba
+by	partial	Constitution, 25 codes, 125 laws	etalonline.by
+cl	minimal	Constitution and 15 codes only (bulk download prohibited by terms)	Ley Chile (BCN)
+co	minimal	Constitution, 28 codes, index of all laws (republication requires permission)	SUIN-Juriscol
+cy	minimal	Constitution only (bulk download requires CyLaw consent)	CyLaw
+in	minimal	Constitution + 3 criminal codes (India Code prohibits bulk download)	legislative.gov.in
+sg	minimal	57 texts (official site blocks access)	SSO via ELD, WIPO Lex
+md	minimal	Constitution only (official sites behind bot protection)	presedinte.md
+af	minimal	2004 Constitution + 2 laws (English), archived	Former official sites (archived)
+gr	progress	Constitution, codes and laws	
+id	progress	UUD 1945, UU, Perppu, PP	JDIH BPK
+kz	progress			
+uz	progress			
+kg	progress			
+tj	progress			
+tm	progress			
+mn	progress			
+th	progress			
+my	progress			
+kh	progress			
+la	progress			
+mm	progress			
+bn	progress			
+tl	progress			
+sa	progress			
+ae	progress			
+qa	progress			
+kw	progress			
+bh	progress			
+om	progress			
+jo	progress			
+lb	progress			
+iq	progress			
+ir	progress			
+sy	progress			
+ps	progress			
+ye	progress			
+ma	progress			
+dz	progress			
+tn	progress			
+eg	progress			
+ly	progress			
+mr	progress			
+sd	progress			
+li	progress			
+mc	progress			
+ad	progress			
+sm	progress			
+va	progress			
