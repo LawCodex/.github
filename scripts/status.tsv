@@ -71,7 +71,7 @@ sg	minimal	57 texts (official site blocks access)	SSO via ELD, WIPO Lex
 md	minimal	Constitution only (official sites behind bot protection)	presedinte.md
 af	minimal	2004 Constitution + 2 laws (English), archived	Former official sites (archived)
 gr	partial	Constitution, 40 codes, ~7,500 laws, decrees and acts (2000+) as published in the Gazette; pre-2000 scans missing	National Printing Office (ΦΕΚ)
-id	progress	UUD 1945, UU, Perppu, PP	JDIH BPK
+id	full	9,797 texts (UUD 1945, UU, Perppu, PP, Perpres) as enacted, with in-force status (6,963 in force)	BPK, JDIH Setneg
 kz	partial	5,596 consolidated acts (Russian + Kazakh) from archived copies; official site restricts automated access	Adilet (Common Crawl, Internet Archive)
 uz	full	2,577 acts in force (Uzbek + Russian), consolidated, incl. Karakalpakstan	lex.uz
 kg	partial	639 acts from 2021–2023 archived copies; official site geo-blocked	cbd.minjust.gov.kg (Common Crawl)

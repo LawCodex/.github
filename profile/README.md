@@ -8,7 +8,7 @@ Texts are reproduced faithfully but are **not** an official publication. Always 
 
 ## Coverage
 
-✅ Full: **40** · 🟡 Partial: **40** · 🟠 Minimal: **9** · 🔄 In progress: **22** · ⬜ Not started: **87**
+✅ Full: **41** · 🟡 Partial: **40** · 🟠 Minimal: **9** · 🔄 In progress: **21** · ⬜ Not started: **87**
 
 - **✅ Full** — the in-force primary legislation the official source exposes, usually consolidated.
 - **🟡 Partial** — substantial corpus with known gaps (unofficial or archived source, texts as enacted rather than consolidated, missing categories).
@@ -97,7 +97,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Hungary | [`hu`](https://github.com/LawCodex/hu) | ✅ Full | 8,215 laws in force, consolidated | Nemzeti Jogszabálytár | 2026-10-12 |
 | Iceland | [`is`](https://github.com/LawCodex/is) | 🟡 Partial | Constitution and all 916 laws; 2,916 of 6,949 regulations | Althingi, island.is | 2026-10-11 |
 | India | [`in`](https://github.com/LawCodex/in) | 🟠 Minimal | Constitution + 3 criminal codes (India Code prohibits bulk download) | legislative.gov.in | 2026-10-11 |
-| Indonesia | [`id`](https://github.com/LawCodex/id) | 🔄 In progress | UUD 1945, UU, Perppu, PP | JDIH BPK | 2026-10-13 |
+| Indonesia | [`id`](https://github.com/LawCodex/id) | ✅ Full | 9,797 texts (UUD 1945, UU, Perppu, PP, Perpres) as enacted, with in-force status (6,963 in force) | BPK, JDIH Setneg | 2026-10-13 |
 | Iran | [`ir`](https://github.com/LawCodex/ir) | 🔄 In progress |  |  | 2026-10-13 |
 | Iraq | [`iq`](https://github.com/LawCodex/iq) | 🔄 In progress |  |  | 2026-10-13 |
 | Ireland | [`ie`](https://github.com/LawCodex/ie) | ✅ Full | 5,450 files: Constitution, Acts (577 revised, rest as enacted), pre-1922 statutes | Law Reform Commission, Irish Statute Book | 2026-10-11 |
@@ -107,7 +107,7 @@ _Table generated 2026-10-13. "Updated" is the date of the repository's last push
 | Japan | [`jp`](https://github.com/LawCodex/jp) | ✅ Full | 9,017 laws in force (法律, 政令, 府省令, 規則) | e-Gov 法令検索 | 2026-10-11 |
 | Jordan | [`jo`](https://github.com/LawCodex/jo) | 🔄 In progress |  |  | 2026-10-13 |
 | Kazakhstan | [`kz`](https://github.com/LawCodex/kz) | 🟡 Partial | 5,596 consolidated acts (Russian + Kazakh) from archived copies; official site restricts automated access | Adilet (Common Crawl, Internet Archive) | 2026-10-13 |
-| Kenya | `ke` | ⬜ Not started |  |  |  |
+| Kenya | [`ke`](https://github.com/LawCodex/ke) | ⬜ Not started |  |  | 2026-10-13 |
 | Kiribati | `ki` | ⬜ Not started |  |  |  |
 | Korea (North) | `kp` | ⬜ Not started |  |  |  |
 | Korea (South) | [`kr`](https://github.com/LawCodex/kr) | ✅ Full | 5,628 current laws, decrees and ordinances | law.go.kr Open API | 2026-10-11 |
