@@ -51,7 +51,6 @@ nz	partial	3,201 Acts from Internet Archive copies; official API needs a key	leg
 ro	partial	18,057 acts as published (not consolidated), in-force status unknown	legislatie.just.ro web service
 vn	partial	2,487 documents in force; 1,043 more without obtainable text	vbpl.vn, Công báo
 za	partial	Constitution + 2,804 Acts as enacted, 64% OCR; consolidated sources prohibit bulk download	gov.za
-ua	progress	Constitution, 23 codes, laws (fetch ongoing under API rate limits)	data.rada.gov.ua
 pk	partial	Constitution + 981 federal laws; Urdu and scans missing	Pakistan Code
 bd	partial	Constitution + 1,346 laws (English/Bangla)	bdlaws.minlaw.gov.bd
 lk	partial	Constitution + 816 Acts as passed (1999+)	parliament.lk
@@ -197,3 +196,4 @@ mh	full	321 texts: Constitution, 305 Acts (Revised Code), 15 regulations	Nitijel
 fm	full	387 texts: Constitution + FSM Code 2014 (48 titles)	FSM Legal Information System
 pw	minimal	27 texts: 2 National Code titles, 1 public law, 24 regulations	palaugov.pw
 kp	minimal	Constitution (2016) in Korean and English	Naenara (via Internet Archive)
+ua	full	6,843 acts in force: Constitution, 23 codes, 6,819 laws (no Cabinet resolutions)	Verkhovna Rada open data (CC BY 4.0)

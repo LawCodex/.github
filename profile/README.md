@@ -8,7 +8,7 @@ Texts are reproduced faithfully but are **not** an official publication. Always 
 
 ## Coverage
 
-✅ Full: **71** · 🟡 Partial: **81** · 🟠 Minimal: **44** · 🔄 In progress: **2** · ⬜ Not started: **0**
+✅ Full: **72** · 🟡 Partial: **81** · 🟠 Minimal: **44** · 🔄 In progress: **1** · ⬜ Not started: **0**
 
 - **✅ Full** — the in-force primary legislation the official source exposes, usually consolidated.
 - **🟡 Partial** — substantial corpus with known gaps (unofficial or archived source, texts as enacted rather than consolidated, missing categories).
@@ -204,7 +204,7 @@ _Table generated 2026-10-15. "Updated" is the date of the repository's last push
 | Tuvalu | [`tv`](https://github.com/LawCodex/tv) | ✅ Full | 317 texts: Constitution, 176 Acts, 140 subsidiary | tuvalu-legislation.tv | 2026-10-13 |
 | Türkiye | [`tr`](https://github.com/LawCodex/tr) | ✅ Full | 14,607 consolidated texts incl. regulations and tebliğler | Mevzuat Bilgi Sistemi | 2026-10-11 |
 | Uganda | [`ug`](https://github.com/LawCodex/ug) | 🟡 Partial | Constitution 1995 + 346 Acts 2005–2024 (mostly OCR) | Parliament of Uganda | 2026-10-13 |
-| Ukraine | [`ua`](https://github.com/LawCodex/ua) | 🔄 In progress | Constitution, 23 codes, laws (fetch ongoing under API rate limits) | data.rada.gov.ua | 2026-10-13 |
+| Ukraine | [`ua`](https://github.com/LawCodex/ua) | ✅ Full | 6,843 acts in force: Constitution, 23 codes, 6,819 laws (no Cabinet resolutions) | Verkhovna Rada open data (CC BY 4.0) | 2026-10-14 |
 | United Arab Emirates | [`ae`](https://github.com/LawCodex/ae) | 🟡 Partial | Constitution + ~330 federal instruments (Arabic) + 202 English from archived copies | uaelegislation.gov.ae (Internet Archive) | 2026-10-13 |
 | United Kingdom | [`gb`](https://github.com/LawCodex/gb) | ✅ Full | 6,720 Acts (UK, Scotland, Wales, NI, pre-Union), revised; no statutory instruments; pre-1980s scans missing | legislation.gov.uk | 2026-10-11 |
 | United States | [`us`](https://github.com/LawCodex/us) | ✅ Full | US Code (all titles), Constitution, eCFR | OLRC (via Internet Archive), GovInfo | 2026-10-11 |
