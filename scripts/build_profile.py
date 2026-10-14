@@ -115,6 +115,8 @@ ACCESS = [
     "the Revised Laws (lawcommission.gov.kn).",
     "**Bolivia** — a licence to republish law texts (Ley de Imprenta, art. 69) from the "
     "Gaceta Oficial.",
+    "**Vanuatu** — permission from Parliament to republish Acts; **Pacific (PacLII)** — "
+    "allow-listing for consolidated legislation of PNG, Solomon Islands, Vanuatu, Samoa, Kiribati.",
     "**Mali, Benin, Congo** — written permission from the official journal / government "
     "secretariat sites to reproduce legislation.",
     "**Moldova, Lithuania, Romania, Serbia, Mexico, Israel, Belarus, Saudi Arabia, UAE, Kazakhstan, Kyrgyzstan, Malawi, Peru, Venezuela, Panama, Guatemala, Dominican Republic** — official sites "
