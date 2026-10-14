@@ -164,7 +164,6 @@ km	minimal	Code pénal only	WIPO Lex
 ag	full	1,111 texts: Constitution, 469 chapters (1992 Revised Edition), 641 later Acts	laws.gov.ag
 dm	partial	469 texts: Constitution, 134 chapters (1990 Revised Laws), 334 Acts 1996–2026	dominica.gov.dm
 gd	full	852 texts: Constitution, 474 chapters, 377 Acts 2011–2026	laws.gov.gd
-kn	minimal	19 texts: Constitution, 8 federal Acts, 10 Nevis Ordinances	nia.gov.kn
 lc	full	400 texts: Revised Laws 2023 (Constitution, 4 codes, 395 Acts)	Attorney General's Chambers
 vc	minimal	7 texts: Constitution (OAS transcription) and 6 Acts	gov.vc / assembly.gov.vc
 sr	partial	218 texts: Grondwet, 97 consolidated texts (to 2005), 120 later laws	DNA (De Nationale Assemblée)
@@ -197,3 +196,4 @@ fm	full	387 texts: Constitution + FSM Code 2014 (48 titles)	FSM Legal Informatio
 pw	minimal	27 texts: 2 National Code titles, 1 public law, 24 regulations	palaugov.pw
 kp	minimal	Constitution (2016) in Korean and English	Naenara (via Internet Archive)
 ua	full	6,843 acts in force: Constitution, 23 codes, 6,819 laws (no Cabinet resolutions)	Verkhovna Rada open data (CC BY 4.0)
+kn	full	980 texts: Constitution, 495 revised Chapters, 36 Nevis Ordinances, annual Acts and SROs 2018–2025	Law Commission (lawcommission.gov.kn)

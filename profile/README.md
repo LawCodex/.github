@@ -8,7 +8,7 @@ Texts are reproduced faithfully but are **not** an official publication. Always 
 
 ## Coverage
 
-✅ Full: **72** · 🟡 Partial: **81** · 🟠 Minimal: **44** · 🔄 In progress: **1** · ⬜ Not started: **0**
+✅ Full: **73** · 🟡 Partial: **81** · 🟠 Minimal: **43** · 🔄 In progress: **1** · ⬜ Not started: **0**
 
 - **✅ Full** — the in-force primary legislation the official source exposes, usually consolidated.
 - **🟡 Partial** — substantial corpus with known gaps (unofficial or archived source, texts as enacted rather than consolidated, missing categories).
@@ -166,7 +166,7 @@ _Table generated 2026-10-15. "Updated" is the date of the repository's last push
 | Romania | [`ro`](https://github.com/LawCodex/ro) | 🟡 Partial | 18,057 acts as published (not consolidated), in-force status unknown | legislatie.just.ro web service | 2026-10-11 |
 | Russia | [`ru`](https://github.com/LawCodex/ru) | ✅ Full | 11,770 federal acts in force incl. all 25 codes, consolidated | pravo.gov.ru | 2026-10-11 |
 | Rwanda | [`rw`](https://github.com/LawCodex/rw) | ✅ Full | ~875 laws in force in Kinyarwanda, English and French | amategeko.gov.rw | 2026-10-13 |
-| Saint Kitts and Nevis | [`kn`](https://github.com/LawCodex/kn) | 🟠 Minimal | 19 texts: Constitution, 8 federal Acts, 10 Nevis Ordinances | nia.gov.kn | 2026-10-13 |
+| Saint Kitts and Nevis | [`kn`](https://github.com/LawCodex/kn) | ✅ Full | 980 texts: Constitution, 495 revised Chapters, 36 Nevis Ordinances, annual Acts and SROs 2018–2025 | Law Commission (lawcommission.gov.kn) | 2026-10-14 |
 | Saint Lucia | [`lc`](https://github.com/LawCodex/lc) | ✅ Full | 400 texts: Revised Laws 2023 (Constitution, 4 codes, 395 Acts) | Attorney General's Chambers | 2026-10-13 |
 | Saint Vincent and the Grenadines | [`vc`](https://github.com/LawCodex/vc) | 🟠 Minimal | 7 texts: Constitution (OAS transcription) and 6 Acts | gov.vc / assembly.gov.vc | 2026-10-13 |
 | Samoa | [`ws`](https://github.com/LawCodex/ws) | ✅ Full | 269 texts: Constitution + 268 consolidated Acts/Ordinances (2024) | Ministry of Justice (mjca.gov.ws) | 2026-10-13 |
@@ -232,7 +232,6 @@ Some corpora are incomplete only because the publisher requires permission, an A
 - **Bahrain** — permission from the Legislation & Legal Opinion Commission (LLOC); **Kuwait** — written consent from the National Assembly Secretariat.
 - **Andorra** — permission to reuse the consolidated texts of portaljuridicandorra.ad; **Vatican City** — permission from the Governatorato to publish the texts.
 - **Lebanon** — permission from the Lebanese University Legal Informatics Center; **Palestine** — permission from Al-Muqtafi (Birzeit University).
-- **Saint Kitts and Nevis** — written permission from the Law Commission to reproduce the Revised Laws (lawcommission.gov.kn).
 - **Bolivia** — a licence to republish law texts (Ley de Imprenta, art. 69) from the Gaceta Oficial.
 - **Vanuatu** — permission from Parliament to republish Acts; **Pacific (PacLII)** — allow-listing for consolidated legislation of PNG, Solomon Islands, Vanuatu, Samoa, Kiribati.
 - **Mali, Benin, Congo** — written permission from the official journal / government secretariat sites to reproduce legislation.

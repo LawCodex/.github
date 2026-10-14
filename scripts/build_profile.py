@@ -111,8 +111,6 @@ ACCESS = [
     "**Vatican City** — permission from the Governatorato to publish the texts.",
     "**Lebanon** — permission from the Lebanese University Legal Informatics Center; "
     "**Palestine** — permission from Al-Muqtafi (Birzeit University).",
-    "**Saint Kitts and Nevis** — written permission from the Law Commission to reproduce "
-    "the Revised Laws (lawcommission.gov.kn).",
     "**Bolivia** — a licence to republish law texts (Ley de Imprenta, art. 69) from the "
     "Gaceta Oficial.",
     "**Vanuatu** — permission from Parliament to republish Acts; **Pacific (PacLII)** — "
