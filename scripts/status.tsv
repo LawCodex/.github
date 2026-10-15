@@ -1,7 +1,6 @@
 eu	full	34,323 acts in force (treaties, regulations, directives, decisions), English, consolidated where available	EUR-Lex / Cellar
 at	full	19,099 texts: all federal and all nine Länder law in force, consolidated	RIS (OGD API)
 au	full	29,287 texts: Constitution, Acts, legislative instruments (Commonwealth), consolidated	Federal Register of Legislation
-be	progress	Consolidated federal and regional legislation, French and Dutch	Justel
 ca	full	11,732 files: Constitution, Acts and regulations in English and French, consolidated	Justice Laws (XML)
 ch	full	5,072 texts in force in DE/FR/IT (+RM), internal and international law, consolidated	Fedlex
 cz	full	8,935 acts in force, consolidated	e-Sbírka
@@ -197,3 +196,4 @@ pw	minimal	27 texts: 2 National Code titles, 1 public law, 24 regulations	palaug
 kp	minimal	Constitution (2016) in Korean and English	Naenara (via Internet Archive)
 ua	full	6,843 acts in force: Constitution, 23 codes, 6,819 laws (no Cabinet resolutions)	Verkhovna Rada open data (CC BY 4.0)
 kn	full	980 texts: Constitution, 495 revised Chapters, 36 Nevis Ordinances, annual Acts and SROs 2018–2025	Law Commission (lawcommission.gov.kn)
+be	full	17,320 texts in force (FR + NL): Constitution, 43 codes, laws, community and regional decrees, ordinances (no German)	Justel (SPF Justice)

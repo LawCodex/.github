@@ -8,7 +8,7 @@ Texts are reproduced faithfully but are **not** an official publication. Always 
 
 ## Coverage
 
-✅ Full: **73** · 🟡 Partial: **81** · 🟠 Minimal: **43** · 🔄 In progress: **1** · ⬜ Not started: **0**
+✅ Full: **74** · 🟡 Partial: **81** · 🟠 Minimal: **43** · 🔄 In progress: **0** · ⬜ Not started: **0**
 
 - **✅ Full** — the in-force primary legislation the official source exposes, usually consolidated.
 - **🟡 Partial** — substantial corpus with known gaps (unofficial or archived source, texts as enacted rather than consolidated, missing categories).
@@ -36,7 +36,7 @@ _Table generated 2026-10-15. "Updated" is the date of the repository's last push
 | Bangladesh | [`bd`](https://github.com/LawCodex/bd) | 🟡 Partial | Constitution + 1,346 laws (English/Bangla) | bdlaws.minlaw.gov.bd | 2026-10-12 |
 | Barbados | [`bb`](https://github.com/LawCodex/bb) | 🟡 Partial | Constitution (2002 reprint, pre-republic) + 538 chapters, reprints 1970s–2008 | barbadoslawcourts.gov.bb | 2026-10-13 |
 | Belarus | [`by`](https://github.com/LawCodex/by) | 🟡 Partial | Constitution, 25 codes, 125 laws | etalonline.by | 2026-10-12 |
-| Belgium | [`be`](https://github.com/LawCodex/be) | 🔄 In progress | Consolidated federal and regional legislation, French and Dutch | Justel | 2026-10-14 |
+| Belgium | [`be`](https://github.com/LawCodex/be) | ✅ Full | 17,320 texts in force (FR + NL): Constitution, 43 codes, laws, community and regional decrees, ordinances (no German) | Justel (SPF Justice) | 2026-10-15 |
 | Belize | [`bz`](https://github.com/LawCodex/bz) | ✅ Full | Constitution + 412 chapters, Revised Edition 2020 | agm.gov.bz | 2026-10-13 |
 | Benin | [`bj`](https://github.com/LawCodex/bj) | 🟠 Minimal | 1990 Constitution + revision laws (site terms forbid reproduction) | sgg.gouv.bj | 2026-10-13 |
 | Bhutan | [`bt`](https://github.com/LawCodex/bt) | 🟡 Partial | Constitution + 165 Acts in English (archived copies) | National Assembly / OAG (archived) | 2026-10-12 |
